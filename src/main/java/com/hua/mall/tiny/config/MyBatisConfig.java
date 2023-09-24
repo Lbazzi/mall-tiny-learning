@@ -1,6 +1,5 @@
 package com.hua.mall.tiny.config;
 
-import com.alibaba.druid.support.json.JSONUtils;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 
